@@ -7,6 +7,7 @@ Quickly install my daily usage software on Google Colab and Kaggle Notebook.
 - [ENRICO-OpenFOAM](http://nbviewer.ipython.org/github/AI-Pranto/Colab-Kaggle-Notebook/blob/master/colab/enrico_openfoam.ipynb)
 - [GenFOAM](http://nbviewer.ipython.org/github/AI-Pranto/Colab-Kaggle-Notebook/blob/master/colab/GenFOAM_install.ipynb)
 - [LaTeX](http://nbviewer.ipython.org/github/AI-Pranto/Colab-Kaggle-Notebook/blob/master/colab/latex.ipynb)
+- [MOOSE](http://nbviewer.ipython.org/github/AI-Pranto/Colab-Kaggle-Notebook/blob/master/colab/moose_install.ipynb)
 - [NJOY21](http://nbviewer.ipython.org/github/AI-Pranto/Colab-Kaggle-Notebook/blob/master/colab/njoy_build.ipynb)
 - [OpenMC+ONIX](http://nbviewer.ipython.org/github/AI-Pranto/Colab-Kaggle-Notebook/blob/master/colab/OpenMC-ONIX-install.ipynb)
 - [OpenMC Quick Setup](http://nbviewer.ipython.org/github/AI-Pranto/Colab-Kaggle-Notebook/blob/master/colab/openmc_setup.ipynb)
