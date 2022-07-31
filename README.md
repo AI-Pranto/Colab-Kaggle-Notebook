@@ -1,6 +1,8 @@
 Quickly install my daily usage software on Google Colab and Kaggle Notebook.
 
-## Notebook Listing
+## **Notebook Listing**
+
+### [Google Colab](https://colab.research.google.com/)
 
 - [Cardinal](http://nbviewer.ipython.org/github/AI-Pranto/Colab-Kaggle-Notebook/blob/master/colab/cardinal.ipynb)
 - [DRAGON-DRAGLIB](http://nbviewer.ipython.org/github/AI-Pranto/Colab-Kaggle-Notebook/blob/master/colab/PyNjoy2016.ipynb)
@@ -14,3 +16,6 @@ Quickly install my daily usage software on Google Colab and Kaggle Notebook.
 - [OpenMC+DAGMC+libmesh](http://nbviewer.ipython.org/github/AI-Pranto/Colab-Kaggle-Notebook/blob/master/colab/openmc_dagmc_libmesh.ipynb)
 - [OpenMC+OpenMOC](http://nbviewer.ipython.org/github/AI-Pranto/Colab-Kaggle-Notebook/blob/master/colab/openmc_openmoc.ipynb)
 - [PyNE](http://nbviewer.ipython.org/github/AI-Pranto/Colab-Kaggle-Notebook/blob/master/colab/pyne_source_install.ipynb)
+
+### [Kaggle Notebook](https://www.kaggle.com/code)
+- [OpenMC Quick Setup](http://nbviewer.ipython.org/github/AI-Pranto/Colab-Kaggle-Notebook/blob/master/kaggle/openmc-setup.ipynb)
